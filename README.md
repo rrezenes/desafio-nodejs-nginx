@@ -8,3 +8,5 @@ cd desafio-nodejs-nginx
 
 docker-compose up -d
 ```
+
+### Basta acessar http://localhost:8080/
